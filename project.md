@@ -37,7 +37,7 @@ Autostereoscopic display for multiviewers positioned at different distances usin
 **Garimagai Borjigin** and Hideki Kakeya
 
 {:.project_img_reference}
-2021   \[[paper1](https://doi.org/10.1364/AO.423012)\] \[[paper2](https://doi.org/10.1002/sdtp.14202)\]
+2021 \|  [paper1](https://doi.org/10.1364/AO.423012) \| [paper2](https://doi.org/10.1002/sdtp.14202)
 
 </div>
 
@@ -63,7 +63,7 @@ Autostereoscopic display with time-multiplexed directional backlight using a nov
 **Garimagai Borjigin** and Hideki Kakeya
 
 {:.project_img_reference}
-2022   \[[paper1](https://doi.org/10.1364/OL.446701)\] \[[paper2](https://confit.atlas.jp/guide/event-img/idw2020/3D3-04/public/pdf_archive?type=in)\]
+2022  \| [paper1](https://doi.org/10.1364/OL.446701) \| [paper2](https://confit.atlas.jp/guide/event-img/idw2020/3D3-04/public/pdf_archive?type=in)
 
 </div>
 
@@ -74,11 +74,11 @@ Autostereoscopic display with time-multiplexed directional backlight using a nov
 {:.project_img_reference}
 Autostereoscopic display with time-multiplexed directional backlight using a curved lens array
 
-
 {:.project_img_reference}
 **Garimagai Borjigin** and Hideki Kakeya
+
 {:.project_img_reference}
-2021   \[[paper1](https://doi.org/10.3169/mta.9.80)\] \[[paper2](https://confit.atlas.jp/guide/event-img/idw2019/3DSA5_3D5-4/public/pdf_archive?type=in)\]
+2021 \| [paper1](https://doi.org/10.3169/mta.9.80) \| [paper2](https://confit.atlas.jp/guide/event-img/idw2019/3DSA5_3D5-4/public/pdf_archive?type=in)
 
 </div>
 
@@ -93,7 +93,7 @@ Autostereoscopic display with time-multiplexed directional backlight using a dec
 **Garimagai Borjigin** and Hideki Kakeya
 
 {:.project_img_reference}
-2019   \[[paper1](https://doi.org/10.1364/DH.2019.W2A.2)\]
+2019  \| [paper1](https://doi.org/10.1364/DH.2019.W2A.2)
 
 </div>
 
