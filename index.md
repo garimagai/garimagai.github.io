@@ -8,7 +8,7 @@ title: Top
 
 ![selfie]({{site.baseurl}}/public/images/selfie.jpg) 
 
-garimagai92\[at\]yahoo.co.jp \| [CV]({{site.baseurl}}/public/docs/CV.pdf)
+gari.magai.gb\[at\]u.tsukuba.ac.jp \| garimagai92\[at\]yahoo.co.jp \| [CV]({{site.baseurl}}/public/docs/CV.pdf)
 
 
 </div>
