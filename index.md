@@ -3,16 +3,30 @@ layout: default
 title: Top
 ---
 
-<div class="div_top_image" markdown="1">
 
+<div class="div_table_threeThird_center">
 
-![selfie]({{site.baseurl}}/public/images/selfie.jpg) 
+<div markdown="1" class = "div_table_index">
 
-gari.magai.gb\[at\]u.tsukuba.ac.jp \| garimagai92\[at\]yahoo.co.jp \| [CV]({{site.baseurl}}/public/docs/CV.pdf)
+![image]({{site.baseurl}}/public/images/selfie.jpg) 
 
 
 </div>
 
+<div markdown="1" class = "div_table_index">
 
-Garimagai Borjigin is currently a postdoctoral fellow at [Visual Media Lab](http://vmlab.kz.tsukuba.ac.jp/en/index.html) (Prof. Hideki Kakeya) at University of Tsukuba. He received Ph. D in Engineering at University of Tsukuba, Japan in 2022. 
+![image]({{site.baseurl}}/public/images/selfie1.jpg) 
+
+</div>
+
+
+</div>
+
+<p markdown="1" style="text-align: center;">gari.magai.gb@u.tsukuba.ac.jp / garimagai92@yahoo.co.jp  
+</p>
+
+
+
+
+**Garimagai Borjigin**\[[CV]({{site.baseurl}}/public/docs/CV.pdf)\], a postdoctoral fellow at [Visual Media Lab](https://visual-media-lab.github.io/en/index.html) (Prof. Hideki Kakeya) at University of Tsukuba, is currently a visiting scholar at the [Photonics and Display Group](https://lcd.creol.ucf.edu/Default.htm) (Prof. Shin-Tson Wu), College of Optics and Photonics (CREOL), University of Central Florida. He received Ph. D. in Engineering at University of Tsukuba, Japan in 2022. 
 He is interested in autostereoscopic displays, super-multiview displays, integral volumetric imaging, virtual/augmented reality (VR/AR).
