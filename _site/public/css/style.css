@@ -433,10 +433,18 @@ img[alt$="><"] {
 
 .div_table_oneThird{
   width: 33%;
-  
 }
+
+.div_table_index{
+  margin-inline: 50px;
+}
+
 .div_table_threeThird{
   display: flex;
+}
+.div_table_threeThird_center{
+  display: flex;
+  text-align: left;
 }
 
 .project_img_reference{

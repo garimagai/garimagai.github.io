@@ -21,7 +21,21 @@ title: Backgrounds
 
 <div class="div_table_firstRowNoWrap" markdown="1">
 
+| 2022.4-present | Postdoctoral Fellow, Visual Media Lab (Prof. Hideki Kakeya), University of Tsukuba, Japan |
 | 2013.7-2016.9 | Service Engineer, Beijing-Fanuc Mechatronics CO., LTD., China |
+
+</div>
+
+### Honors & Awards
+
+<div class="div_table_firstRowNoWrap" markdown="1">
+
+| 10/2022 | Student Encouragement Award (Technical Group on Three-Dimensional Image Technology, ITE-3DMT) |
+| 03/2022 | The Dean Award for Academic Excellence (IMIS, University of Tsukuba) |
+|03/2020 | The Department Award for Academic Excellence (IIT, University of Tsukuba) |
+| 03/2020 | Award for Excellent Master's Thesis (IIT, University of Tsukuba) |
+| 12/2020 | IDW ‘20 Best Paper Award |
+| 08/2019 | Student Presentation Award (ITE Winter Annual Convention 2018) |
 
 </div>
 
@@ -39,6 +53,6 @@ Mandarin, Japanese, English, Mongolian
 ### Skills
 Programming (C++, C#, OpenGL)
 
-Software (Unity, Blender)
+Software (Unity, Blender,Matlab, Zemax)
 
 Digital fabrication (CAD, 3D printing)

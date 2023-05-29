@@ -22,7 +22,7 @@ Autostereoscopic Display for Two Viewers Providing Images Specific to Each Viewp
 **Garimagai Borjigin** and Hideki Kakeya
 
 {:.project_img_reference}
-2022
+2022 \|  [paper1](https://doi.org/10.1364/OE.489879)
 
 </div>
 
@@ -119,6 +119,27 @@ Akira Nagai, **Garimagai Borjigin** and Hideki Kakeya
 
 {:.project_img_reference}
 2022
+
+</div>
+
+</div>
+
+### Integral Imaging
+
+<div class="div_table_threeThird">
+
+<div class="div_table_oneThird" markdown="1">
+
+![image]({{site.baseurl}}/public/images/IntegralImaging.jpg){:.project_img}
+
+{:.project_img_reference}
+Coarse Integral Imaging Displays with Interleaved Fresnel Lenses
+
+{:.project_img_reference}
+**Garimagai Borjigin** and Hideki Kakeya 
+
+{:.project_img_reference}
+2023
 
 </div>
 
