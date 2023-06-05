@@ -139,7 +139,7 @@ Coarse Integral Imaging Displays with Interleaved Fresnel Lenses
 **Garimagai Borjigin** and Hideki Kakeya 
 
 {:.project_img_reference}
-2023
+2023 \| [Video](https://www.youtube.com/watch?v=ft8Gdp6syK4&ab_channel=Charbax)
 
 </div>
 
