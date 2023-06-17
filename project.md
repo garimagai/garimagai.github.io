@@ -13,7 +13,7 @@ Autostereoscopic displays for multiple viewers
 
 <div class="div_table_oneThird" markdown="1">
 
-![image]({{site.baseurl}}/public/images/TwoViewers256.jpg){:.project_img}
+![image]({{site.baseurl}}/public/images/TwoViewers1.png){:.project_img}
 
 {:.project_img_reference}
 Autostereoscopic Display for Two Viewers Providing Images Specific to Each Viewpoint <br/><br/>
@@ -28,7 +28,7 @@ Autostereoscopic Display for Two Viewers Providing Images Specific to Each Viewp
 
 <div class="div_table_oneThird" markdown="1">
 
-![image]({{site.baseurl}}/public/images/PDLC256.jpg){:.project_img}
+![image]({{site.baseurl}}/public/images/PDLC1.jpg){:.project_img}
 
 {:.project_img_reference}
 Autostereoscopic display for multiviewers positioned at different distances using time-multiplexed layered directional backlight
@@ -54,7 +54,7 @@ High resolution autostereoscopic displays using lens array
 
 <div class="div_table_oneThird" markdown="1">
 
-![image]({{site.baseurl}}/public/images/InterleavedLens256.png){:.project_img}
+![image]({{site.baseurl}}/public/images/InterleavedLens1.jpg){:.project_img}
 
 {:.project_img_reference}
 Autostereoscopic display with time-multiplexed directional backlight using a novel linear fresnel lens array
@@ -69,7 +69,7 @@ Autostereoscopic display with time-multiplexed directional backlight using a nov
 
 <div class="div_table_oneThird" markdown="1">
 
-![image]({{site.baseurl}}/public/images/CurvedLens.jpg){:.project_img}
+![image]({{site.baseurl}}/public/images/CurvedLens1.jpg){:.project_img}
 
 {:.project_img_reference}
 Autostereoscopic display with time-multiplexed directional backlight using a curved lens array
@@ -84,7 +84,7 @@ Autostereoscopic display with time-multiplexed directional backlight using a cur
 
 <div class="div_table_oneThird" markdown="1">
 
-![image]({{site.baseurl}}/public/images/DecenteredLens.jpg){:.project_img}
+![image]({{site.baseurl}}/public/images/DecenteredLens1.jpg){:.project_img}
 
 {:.project_img_reference}
 Autostereoscopic display with time-multiplexed directional backlight using a decentered lens array
