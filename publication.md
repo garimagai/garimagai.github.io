@@ -6,6 +6,8 @@ title: Publications
 # PUBLICATIONS
 ---
 ### Reviewed Journal Papers
+- **Garimagai Borjigin** and Hideki Kakeya: “Near-Eye Light-Field Display with Time-Division and Color Multiplexing to Induce Focal Accommodation,” ITE Transactions on MTA 12(1): 61–67, 2024.
+- **Garimagai Borjigin**, Yuqiang Ding, John Semmen, Hosna Tajvidi Safa, Hideki Kakeya, and Shin-Tson Wu: "Coarse Integral Volumetric Imaging Display with Time and Polarization Multiplexing." Photonics 11(1), 7, 2023.
 - **Garimagai Borjigin** and Hideki Kakeya: “Viewing zone expansion of a dual-viewer autostereoscopic display with inclined interleaved linear Fresnel lens arrays and a time-division quadruplexing directional backlight,” Optics Express, 31(11):17321-17330, 2023.
 - **Garimagai Borjigin** and Hideki Kakeya: “Backlight system using an interleaved Fresnel lens array that attains a uniform luminance and two-dimensional directional light control,” Optics Letters, 47(2):301-304, 2022.
 - **Garimagai Borjigin** and Hideki Kakeya: “Autostereoscopic display for multiviewers positioned at different distances using time-multiplexed layered directional backlight,” Applied Optics, 60(12):3353-3357, 2021.
@@ -25,6 +27,7 @@ Posters
 
 ### Nonreviewed Reviewed Proceedings
 Oral presentations
+- **Garimagai Borjigin** and Hideki Kakeya: “Downsizing and crosstalk reduction of high resolution autostereoscopic display with time multiplexed directional backlight,” Proceedings of the Technical Group on Three-Dimensional Media Technology (3DMT), Nagoya, Japan (October 2023). [in Japanese]
 - **Garimagai Borjigin** and Hideki Kakeya: “Evaluation of high resolution time-multiplexed autostereoscopy providing two viewers with images specific to each viewpoint,” Proceedings of the Technical Group on Three-Dimensional Media Technology (3DMT), Utsunomiya, Japan (October 2022). [in Japanese]
 - **Garimagai Borjigin**, Akira Nagai and Hideki Kakeya: “Performance Improvement of Focal Accommodation Induction in Super-Multiview Display,” Proceedings of the Three-Dimensional Media Technology (ITE Japan), Online Conference (March 2022). [in Japanese]
 - **Garimagai Borjigin** and Hideki Kakeya: “Autostereoscopic Display for Two Viewers Providing Images Specific to Each Viewpoint,” Proceedings of the ITE Winter Annual Convention 2021, Online Conference (December 2021). [in Japanese]
